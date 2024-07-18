@@ -10,10 +10,12 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">HARIPRASAD </span>
             from <span className="purple"> Kerala, India.</span>
-            <br />
+            <br /><br />
             I am currently employed as a software developer at Squad Technologies Pvt. Ltd.
-            <br />
-            Also I am presuming my Masters of Computer Application at Bharathiyar university. I graduated in Bachelor of SCience in Information of Technology at Calicut university.  My strong technical expertise, coupled with a
+            <br /><br />
+            Also I am presuming my Masters of Computer Application at Bharathiyar university. I graduated in Bachelor of SCience in Information of Technology at Calicut university. 
+            <br /><br />
+            My strong technical expertise, coupled with a
  passion for continuous learning and problem-solving, ensures that I stay
  at the forefront of industry trends and best practices. 
             <br />
