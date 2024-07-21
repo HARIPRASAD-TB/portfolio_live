@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
+              I fell in love with programming, and I have at least learned
               something, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
@@ -28,7 +28,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest is building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b>
               </i>
@@ -46,7 +46,7 @@ function Home2() {
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>&nbsp;  
-              with backend technology &nbsp;
+              with backend technology like &nbsp;
               <b className="purple">Node.js</b>.
             </p>
           </Col>
