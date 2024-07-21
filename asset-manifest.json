@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio_live/static/css/main.8a766aad.css",
-    "main.js": "/portfolio_live/static/js/main.689bf4de.js",
+    "main.js": "/portfolio_live/static/js/main.b4b522f2.js",
     "static/js/415.6560f593.chunk.js": "/portfolio_live/static/js/415.6560f593.chunk.js",
     "static/js/787.d8fbd753.chunk.js": "/portfolio_live/static/js/787.d8fbd753.chunk.js",
-    "static/media/Hariprasad-MERN-developer.pdf": "/portfolio_live/static/media/Hariprasad-MERN-developer.83a8695871f3110424de.pdf",
+    "static/media/React_Developer_Hariprasad.pdf": "/portfolio_live/static/media/React_Developer_Hariprasad.2c2c325979e6ccc45dae.pdf",
     "static/media/home-main.svg": "/portfolio_live/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio_live/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/ha-logo-white.png": "/portfolio_live/static/media/ha-logo-white.cb0df7ee1a5c5610ae9b.png",
@@ -14,12 +14,12 @@
     "static/media/pre.svg": "/portfolio_live/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio_live/index.html",
     "main.8a766aad.css.map": "/portfolio_live/static/css/main.8a766aad.css.map",
-    "main.689bf4de.js.map": "/portfolio_live/static/js/main.689bf4de.js.map",
+    "main.b4b522f2.js.map": "/portfolio_live/static/js/main.b4b522f2.js.map",
     "415.6560f593.chunk.js.map": "/portfolio_live/static/js/415.6560f593.chunk.js.map",
     "787.d8fbd753.chunk.js.map": "/portfolio_live/static/js/787.d8fbd753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a766aad.css",
-    "static/js/main.689bf4de.js"
+    "static/js/main.b4b522f2.js"
   ]
 }
