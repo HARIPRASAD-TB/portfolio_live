@@ -47,7 +47,7 @@ function Home2() {
                 <b className="purple"> React.js and Next.js</b>
               </i>&nbsp;  
               with backend technology like &nbsp;
-              <b className="purple">Node.js</b>.
+              <b className="purple">Express</b>.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

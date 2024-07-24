@@ -22,7 +22,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="Tourengine with Viator and 1Way2Italy"
-              description="I developed and maintained an advanced tour booking website using React and Next.js, with a strong emphasis on enhancing the user interface and overall user experience. This project also involved implementing robust server-side logic and backend functionality using Node.js, ensuring seamless integration with the frontend, particularly through integration with Moonstride."
+              description="I worked in a team to develop and maintain an advanced tour booking website using React and Next.js, focusing on enhancing the user interface and overall user experience. Our project involved implementing robust server-side logic and backend functionality using Express, ensuring seamless integration with the frontend, particularly through integration with Moonstride."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -32,7 +32,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="AI Buddy"
-              description="AI Buddy is an innovative platform I developed using React and Next.js, currently implemented within the Moonstride ecosystem. This dynamic tool leverages the power of Chat GPT APIs to generate personalized trip plans, making travel planning intuitive and seamless."
+              description="I worked in a team to develop 'AI Buddy,' an innovative platform using React and Next.js, currently implemented within the Moonstride ecosystem. This dynamic tool leverages the power of Chat GPT APIs to generate personalized trip plans, making travel planning intuitive and seamless."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -41,7 +41,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="Moonstride integration with Zoho books"
-              description="As part of enhancing the accounting capabilities within Moonstride, I implemented an integration with Zoho Accounting Software. This integration streamlines the management of user accounts by synchronizing invoice and payment details between Moonstride and Zoho, ensuring accurate and efficient financial tracking."
+              description="As part of a team, I implemented an integration with Zoho Accounting Software to enhance the accounting capabilities within Moonstride. This integration streamlines the management of user accounts by synchronizing invoice and payment details between Moonstride and Zoho, ensuring accurate and efficient financial tracking."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -51,7 +51,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="Moonstride integration with Xero"
-              description="I developed a seamless integration between Moonstride and Xero Accounting Software to enhance financial management for Moonstride users. This integration synchronizes invoice and payment details between the two platforms, ensuring accurate and efficient account management."
+              description="As part of a team, I developed a seamless integration between Moonstride and Xero Accounting Software to enhance financial management for Moonstride users. This integration synchronizes invoice and payment details between the two platforms, ensuring accurate and efficient account management."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -61,7 +61,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="Moonstride integration with Quick books"
-              description="To streamline financial management for Moonstride users, I developed an integration with QuickBooks Accounting Software. This integration facilitates the synchronization of invoice and payment details between Moonstride and QuickBooks, ensuring efficient and accurate account management."
+              description="As part of a team, I developed an integration with QuickBooks Accounting Software to streamline financial management for Moonstride users. This integration facilitates the synchronization of invoice and payment details between Moonstride and QuickBooks, ensuring efficient and accurate account management."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={integral}
               isBlog={false}
               title="Web scraping with Integral"
-              description="I developed a web scraping solution using Selenium in Python to collect and analyze data from Integral. This project involved automating the data extraction process and performing detailed analysis on the collected data to derive valuable insights."
+              description="As part of a team, I developed a web scraping solution using Selenium in Python to collect and analyze data from Integral. This project involved automating the data extraction process and performing detailed analysis on the collected data to derive valuable insights."
               demoLink="https://www.integralmemory.com/"
             />
           </Col>
